@@ -1,0 +1,24 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.melody/
+
+# Generated files
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+
+# macOS
+macos/Flutter/ephemeral/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Others
+*.lock
+.DS_Store
